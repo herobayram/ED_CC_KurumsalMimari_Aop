@@ -1,0 +1,13 @@
+D:\GithubProjects\ED_CC_KurumsalMimari_Aop\KMDemo.DataAccess\bin\Debug\KMDemo.DataAccess.dll
+D:\GithubProjects\ED_CC_KurumsalMimari_Aop\KMDemo.DataAccess\bin\Debug\KMDemo.DataAccess.pdb
+D:\GithubProjects\ED_CC_KurumsalMimari_Aop\KMDemo.DataAccess\bin\Debug\KMDemo.Entities.dll
+D:\GithubProjects\ED_CC_KurumsalMimari_Aop\KMDemo.DataAccess\bin\Debug\PostSharp.dll
+D:\GithubProjects\ED_CC_KurumsalMimari_Aop\KMDemo.DataAccess\bin\Debug\Core.dll
+D:\GithubProjects\ED_CC_KurumsalMimari_Aop\KMDemo.DataAccess\bin\Debug\KMDemo.Entities.pdb
+D:\GithubProjects\ED_CC_KurumsalMimari_Aop\KMDemo.DataAccess\bin\Debug\PostSharp.xml
+D:\GithubProjects\ED_CC_KurumsalMimari_Aop\KMDemo.DataAccess\bin\Debug\Core.pdb
+D:\GithubProjects\ED_CC_KurumsalMimari_Aop\KMDemo.DataAccess\obj\Debug\KMDemo.DataAccess.csprojAssemblyReference.cache
+D:\GithubProjects\ED_CC_KurumsalMimari_Aop\KMDemo.DataAccess\obj\Debug\KMDemo.DataAccess.csproj.CoreCompileInputs.cache
+D:\GithubProjects\ED_CC_KurumsalMimari_Aop\KMDemo.DataAccess\obj\Debug\KMDemo.DataAccess.csproj.CopyComplete
+D:\GithubProjects\ED_CC_KurumsalMimari_Aop\KMDemo.DataAccess\obj\Debug\KMDemo.DataAccess.dll
+D:\GithubProjects\ED_CC_KurumsalMimari_Aop\KMDemo.DataAccess\obj\Debug\KMDemo.DataAccess.pdb

@@ -1,0 +1,13 @@
+D:\GithubProjects\ED_CC_KurumsalMimari_Aop\Core\bin\Debug\Core.pssym
+D:\GithubProjects\ED_CC_KurumsalMimari_Aop\Core\bin\Debug\Core.dll
+D:\GithubProjects\ED_CC_KurumsalMimari_Aop\Core\bin\Debug\Core.pdb
+D:\GithubProjects\ED_CC_KurumsalMimari_Aop\Core\bin\Debug\PostSharp.dll
+D:\GithubProjects\ED_CC_KurumsalMimari_Aop\Core\bin\Debug\PostSharp.xml
+D:\GithubProjects\ED_CC_KurumsalMimari_Aop\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\GithubProjects\ED_CC_KurumsalMimari_Aop\Core\obj\Debug\Core.csproj.CopyComplete
+D:\GithubProjects\ED_CC_KurumsalMimari_Aop\Core\obj\Debug\PostSharp\touch
+D:\GithubProjects\ED_CC_KurumsalMimari_Aop\Core\obj\Debug\PostSharp\dependencies.txt
+D:\GithubProjects\ED_CC_KurumsalMimari_Aop\Core\obj\Debug\Core.dll
+D:\GithubProjects\ED_CC_KurumsalMimari_Aop\Core\obj\Debug\Core.pdb
+D:\GithubProjects\ED_CC_KurumsalMimari_Aop\Core\obj\Debug\PostSharp\postsharp.app.config
+D:\GithubProjects\ED_CC_KurumsalMimari_Aop\Core\obj\Debug\Core.csprojAssemblyReference.cache
